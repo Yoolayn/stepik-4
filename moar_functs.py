@@ -14,4 +14,3 @@ def dzi(a, b):
     return a / b
 
 
-print(dod(5, 5))
