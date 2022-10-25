@@ -6,6 +6,8 @@ def Hello():
 	b = 7
 	return (a + b)
 ```
+# paragrafy
+
 	to jest pierwszy paragraf opisujący podaną funkcję
 	ta funkcja *dodaje* **dwie zmienne** do siebie i je ~~wypisuje~~ zwraca</p>
 
