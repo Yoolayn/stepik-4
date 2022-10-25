@@ -29,4 +29,4 @@ ta funkcja *dodaje* **dwie zmienne** do siebie i je ~~wypisuje~~ zwraca</p>
 	- podelement
 
 w języku python za pomocą polecenia `print()` można wypisać w konsoli wiadomość
-![[Python-logo-notext.svg.png]]
+![moj obrazek](img/Python-logo-notext.svg.png)
