@@ -13,4 +13,3 @@ def mno(a,b):
 def dzi(a,b):
     return a / b
 
-
