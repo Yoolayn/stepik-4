@@ -1,20 +1,8 @@
-def dod(a,b):
-    return a + b
+import moar_functs
 
 
-def ode(a,b):
-    return a - b
-
-
-def mno(a,b):
-    return a * b
-
-
-def dzi(a,b):
-    return a / b
-
-print(dod(5+5))
-print(ode(6-5))
-print(mno(2*2))
-print(mno(4/2))
+print(moar_functs.dod(5, 5))
+print(moar_functs.ode(6, 5))
+print(moar_functs.mno(2, 2))
+print(moar_functs.dzi(4, 2))
 
